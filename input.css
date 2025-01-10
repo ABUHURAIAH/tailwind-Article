@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.bg-color{
+    @apply bg-[#979797];
+}
+.fccc{
+    @apply flex flex-col items-center justify-center mx-auto;
+}
